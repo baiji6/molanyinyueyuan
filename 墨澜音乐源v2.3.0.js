@@ -1,9 +1,14 @@
 /*!
  * @name 墨澜聚合音源
- * @description 修复wy
+ * @description 全平台支持flac，wy，qq，kw，kg支持母带
  * @version 2.3.0
  * @author 白姬9527(2449067834)
- *
+ * @homepage https://github.com/baiji6/molanyinyueyuan
+ * @license MIT
+ * @update 2026-08-16
+ * @changelog
+    1.修复wy音源
+    2.新增QQ越权
  */
 
 
