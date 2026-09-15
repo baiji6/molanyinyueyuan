@@ -121,7 +121,7 @@ QQ音乐 (tx) 128k, 320k, flac, flac24bit, hires, atmos, atmos_plus, master 128k
 · 方式二：在仓库根目录的 墨澜音乐源v2.3.0.js 文件中查看。
 · 方式三：通过以下命令快速获取：
   ```bash
-  curl -O https://raw.githubusercontent.com/baiji6/molanyinyueyuan/main/墨澜音乐源v2.3.0.js
+  curl -O https://raw.githubusercontent.com/baiji6/molanyinyueyuan/main/墨澜音乐源v2.3.4.js
   ```
 
 注意：确保复制完整，首尾包含 /*! 和 */ 的注释区域，避免语法错误。
@@ -442,7 +442,7 @@ A：酷我音乐的高音质（atmos/atmos_plus/master）仅走流媒体直链�
 
 ---
 
-墨澜 v2.3.0 —— 汇聚百川，只为每一首歌流畅抵达。
+墨澜 v2.3.4 —— 汇聚百川，只为每一首歌流畅抵达。
 如果你喜欢这个项目，别忘了点 ⭐ Star 支持我们！
 如有疑问或建议，请通过 Issues 与我们联系。
 
